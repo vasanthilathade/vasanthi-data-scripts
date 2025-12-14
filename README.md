@@ -18,6 +18,8 @@ This repository is a comprehensive collection of my **Python practice codes, Lee
 - File Handling, Exception Handling, Modularization  
 
 ### LeetCode
+# LeetCode Problem List
+[Open LC/00.BLind75.rstt](LC/00.BLind75.rst)
 - Easy, Medium, Hard problems  
 - Data structures: Arrays, Linked Lists, Trees, Graphs  
 - Algorithms: DP, Recursion, Backtracking, Binary Search, Two Pointers  
